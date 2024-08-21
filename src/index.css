@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: "Hind", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  font-family: "Hind", sans-serif;
+}
+
+:root {
+  --color-text: rgba(72, 96, 114, 1);
+}
